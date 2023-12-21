@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Mateo4",
+    "email": "mateo2@gmail.com",
+    "direccion": "calle 62",
+    "telefono": "1323231"
+  },
+  {
+    "nombre": "Mateo6",
+    "email": "mateo25@gmail.com",
+    "direccion": "calle 62",
+    "telefono": "987654321"
+  },
+  {
+    "nombre": "Mateo8",
+    "email": "mateo30@gmail.com",
+    "direccion": "calle 662",
+    "telefono": "13233231"
+  },
+  {
+    "nombre": "Mateo8",
+    "email": "mateo30@gmail.com",
+    "direccion": "calle 662",
+    "telefono": "13233231"
+  },
+  {
+    "nombre": "Mateo30",
+    "email": "mateo40@gmail.com",
+    "direccion": "calle 662",
+    "telefono": "13233231"
+  }
+]
